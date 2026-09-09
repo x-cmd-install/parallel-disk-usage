@@ -7,7 +7,7 @@ about:
   latestVersion: "0.24.0"
   latestRelease: "0.24.0"
   latestPrerelease: "0.22.1-rc.1"
-  collectedAt: 2026-09-09T06:02:16Z
+  collectedAt: 2026-09-09T20:24:32Z
 timeline:
   created: 2021-05-16
   lastCommit: 2026-08-09
@@ -89,7 +89,7 @@ total:
   commit: 1323
 ---
 path: /home/runner/.x-repo/github.com/KSXGitHub/parallel-disk-usage
-collectedAt: 2026-09-09T06:02:20Z
+collectedAt: 2026-09-09T20:24:33Z
 loc:
   Rust:
     code: 12101
