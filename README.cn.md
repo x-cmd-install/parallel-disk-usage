@@ -4,7 +4,7 @@
 
 Highly parallelized, blazing fast directory tree analyzer
 
-![parallel-disk-usage](https://repo.x-cmd.io/parallel-disk-usage.svg?lang=zh)
+[![x-cmd/install — parallel-disk-usage Code Quality Monitoring Repo Card](https://repo.x-cmd.io/parallel-disk-usage.svg?lang=zh)](https://x-cmd.com/install/parallel-disk-usage)
 
 ## 安装
 
@@ -38,7 +38,7 @@ x install parallel-disk-usage
 
 ## 流行度
 
-- **Star**: 730 · **Fork**: 25 · **开放 issue**: 77 · **贡献者**: 8
+- **Star**: 731 · **Fork**: 25 · **开放 issue**: 77 · **贡献者**: 8
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install parallel-disk-usage
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 2 | 4 | 0 | 0 | 4 |
-| 90d | 2026-06-20 | 0 | 8 | 4 | 4 | 0 | 11 |
-| last180d | 2026-03-22 | 7 | 50 | 5 | 24 | 2 | 64 |
-| 360d | 2025-09-23 | 7 | 80 | 9 | 32 | 2 | 101 |
-| last720d | 2024-09-28 | 17 | 106 | 9 | 44 | 3 | 244 |
+| 30d | 2026-08-21 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 2 | 4 | 0 | 0 | 1 |
+| 90d | 2026-06-22 | 0 | 7 | 4 | 4 | 0 | 10 |
+| last180d | 2026-03-24 | 7 | 44 | 5 | 24 | 2 | 52 |
+| 360d | 2025-09-25 | 7 | 80 | 9 | 32 | 2 | 101 |
+| last720d | 2024-09-30 | 17 | 106 | 9 | 44 | 3 | 244 |
 
 ## Release 资产
 
@@ -84,4 +84,4 @@ parallel-disk-usage 的安装元数据由 [x-cmd/install](https://github.com/x-c
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:01:54Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:01:46Z._
