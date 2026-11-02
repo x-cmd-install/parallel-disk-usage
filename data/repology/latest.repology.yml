@@ -1,3 +1,14 @@
+- repo: nix_stable_25_11
+  srcname: parallel-disk-usage
+  visiblename: parallel-disk-usage
+  version: 0.21.1
+  origversion: null
+  status: outdated
+  summary: Highly parallelized, blazing fast directory tree analyzer
+  maintainers:
+    - peret@github
+  licenses:
+    - Apache-2.0
 - repo: arch
   subrepo: extra
   srcname: parallel-disk-usage
@@ -35,28 +46,6 @@
   origversion: null
   status: rolling
   summary: Highly parallelized, blazing fast directory tree analyzer
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: parallel-disk-usage
-  binname: parallel-disk-usage
-  visiblename: parallel-disk-usage
-  version: 0.24.0
-  origversion: 0.24.0-1
-  status: newest
-  summary: Summarize disk usage of the set of files, recursively for directories
-  licenses:
-    - Apache-2.0
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: parallel-disk-usage
-  binname: parallel-disk-usage
-  visiblename: parallel-disk-usage
-  version: 0.24.0
-  origversion: 0.24.0-1
-  status: newest
-  summary: Summarize disk usage of the set of files, recursively for directories
-  licenses:
-    - Apache-2.0
 - repo: manjaro_unstable
   subrepo: extra
   srcname: parallel-disk-usage
@@ -94,17 +83,6 @@
   srcname: parallel-disk-usage
   visiblename: parallel-disk-usage
   version: 0.11.1
-  origversion: null
-  status: outdated
-  summary: Highly parallelized, blazing fast directory tree analyzer
-  maintainers:
-    - peret@github
-  licenses:
-    - Apache-2.0
-- repo: nix_stable_25_11
-  srcname: parallel-disk-usage
-  visiblename: parallel-disk-usage
-  version: 0.21.1
   origversion: null
   status: outdated
   summary: Highly parallelized, blazing fast directory tree analyzer
