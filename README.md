@@ -33,7 +33,7 @@ Total: **13,718** lines of code across **137** files in the top 5 languages.
 ## Release
 
 - **Latest**: `0.24.0` (2026-05-28)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-17
 - **Assets in release**: 15
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **13,718** lines of code across **137** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 62 · **Merged PRs**: 273 · **Open PRs**: 9 · **Closed issues**: 67 · **Open issues**: 12 · **Commits**: 1329
+- **Releases**: 62 · **Merged PRs**: 274 · **Open PRs**: 9 · **Closed issues**: 67 · **Open issues**: 12 · **Commits**: 1330
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 3 | 1 | 1 | 1 | 6 |
-| last60d | 2026-09-18 | 0 | 3 | 1 | 1 | 1 | 6 |
-| 90d | 2026-08-19 | 0 | 4 | 3 | 1 | 1 | 6 |
-| last180d | 2026-05-21 | 1 | 22 | 5 | 11 | 1 | 29 |
-| 360d | 2025-11-22 | 7 | 80 | 9 | 33 | 3 | 102 |
-| last720d | 2024-11-27 | 16 | 107 | 9 | 45 | 4 | 226 |
+| 30d | 2026-10-20 | 0 | 4 | 1 | 1 | 1 | 7 |
+| last60d | 2026-09-20 | 0 | 4 | 1 | 1 | 1 | 7 |
+| 90d | 2026-08-21 | 0 | 5 | 3 | 1 | 1 | 7 |
+| last180d | 2026-05-23 | 1 | 22 | 5 | 11 | 1 | 30 |
+| 360d | 2025-11-24 | 7 | 80 | 9 | 33 | 3 | 103 |
+| last720d | 2024-11-29 | 16 | 108 | 9 | 45 | 4 | 227 |
 
 ## Release assets
 
@@ -75,6 +75,16 @@ Total: **13,718** lines of code across **137** files in the top 5 languages.
 | [sha256sum.txt](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.0/sha256sum.txt) | 474 B | `other` |
 | [sha512sum.txt](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.0/sha512sum.txt) | 794 B | `other` |
 
+## Distribution status
+
+Reported by **17** distros on [repology.org](https://repology.org/project/parallel-disk-usage). **10** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.24.0` | ✅ latest |
+| Homebrew | `0.24.0` | ✅ latest |
+| Nix unstable | `0.24.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for parallel-disk-usage lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `parallel-disk-usage` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -84,4 +94,4 @@ Install metadata for parallel-disk-usage lives in the [x-cmd/install](https://gi
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:50:23Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:27:59Z._
