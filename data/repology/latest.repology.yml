@@ -1,25 +1,3 @@
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: parallel-disk-usage
-  binname: parallel-disk-usage
-  visiblename: parallel-disk-usage
-  version: 0.24.0
-  origversion: 0.24.0-1
-  status: newest
-  summary: Summarize disk usage of the set of files, recursively for directories
-  licenses:
-    - Apache-2.0
-- repo: parabola
-  subrepo: extra
-  srcname: parallel-disk-usage
-  binname: parallel-disk-usage
-  visiblename: parallel-disk-usage
-  version: 0.24.0
-  origversion: 0.24.0-1
-  status: newest
-  summary: Summarize disk usage of the set of files, recursively for directories
-  licenses:
-    - Apache-2.0
 - repo: arch
   subrepo: extra
   srcname: parallel-disk-usage
@@ -27,7 +5,7 @@
   visiblename: parallel-disk-usage
   version: 0.24.0
   origversion: 0.24.0-1
-  status: newest
+  status: outdated
   summary: Summarize disk usage of the set of files, recursively for directories
   licenses:
     - Apache-2.0
@@ -35,9 +13,9 @@
   srcname: parallel-disk-usage-bin
   binname: parallel-disk-usage-bin
   visiblename: parallel-disk-usage-bin
-  version: 0.23.0
-  origversion: 0.23.0-2
-  status: outdated
+  version: 0.24.1
+  origversion: 0.24.1-1
+  status: newest
   summary: Summarize disk usage of the set of files, recursively for directories.
   maintainers:
     - hvksmr1996@aur
@@ -46,7 +24,7 @@
 - repo: homebrew
   srcname: parallel-disk-usage
   visiblename: parallel-disk-usage
-  version: 0.24.0
+  version: 0.24.1
   origversion: null
   status: newest
   summary: Highly parallelized, blazing fast directory tree analyzer
@@ -64,7 +42,18 @@
   visiblename: parallel-disk-usage
   version: 0.24.0
   origversion: 0.24.0-1
-  status: newest
+  status: outdated
+  summary: Summarize disk usage of the set of files, recursively for directories
+  licenses:
+    - Apache-2.0
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: parallel-disk-usage
+  binname: parallel-disk-usage
+  visiblename: parallel-disk-usage
+  version: 0.24.0
+  origversion: 0.24.0-1
+  status: outdated
   summary: Summarize disk usage of the set of files, recursively for directories
   licenses:
     - Apache-2.0
@@ -75,7 +64,7 @@
   visiblename: parallel-disk-usage
   version: 0.24.0
   origversion: 0.24.0-1
-  status: newest
+  status: outdated
   summary: Summarize disk usage of the set of files, recursively for directories
   licenses:
     - Apache-2.0
@@ -139,10 +128,21 @@
   visiblename: parallel-disk-usage
   version: 0.24.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Highly parallelized, blazing fast directory tree analyzer
   maintainers:
     - peret@github
+  licenses:
+    - Apache-2.0
+- repo: parabola
+  subrepo: extra
+  srcname: parallel-disk-usage
+  binname: parallel-disk-usage
+  visiblename: parallel-disk-usage
+  version: 0.24.0
+  origversion: 0.24.0-1
+  status: outdated
+  summary: Summarize disk usage of the set of files, recursively for directories
   licenses:
     - Apache-2.0
 - repo: pkgsrc_2026_2
@@ -151,7 +151,7 @@
   visiblename: sysutils/parallel-disk-usage
   version: 0.24.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Highly parallelized, blazing fast directory tree analyzer
   maintainers:
     - pkgsrc-users@netbsd.org
@@ -163,7 +163,7 @@
   visiblename: sysutils/parallel-disk-usage
   version: 0.24.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Highly parallelized, blazing fast directory tree analyzer
   maintainers:
     - pkgsrc-users@netbsd.org
@@ -175,7 +175,7 @@
   visiblename: sysutils/parallel-disk-usage
   version: 0.24.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Highly parallelized, blazing fast directory tree analyzer
   maintainers:
     - pkgsrc-users@netbsd.org
