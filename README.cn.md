@@ -14,15 +14,15 @@ x install parallel-disk-usage
 
 ## 代码洞察
 
-合计: **13,718** 行代码（覆盖前 5 种语言、共 **137** 个文件）。
+合计: **13,865** 行代码（覆盖前 5 种语言、共 **149** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 12,107 | 108 | 1,207 | 115 |
+| Rust | 12,169 | 108 | 1,212 | 122 |
 | TypeScript | 652 | 0 | 82 | 13 |
 | Yaml | 278 | 0 | 51 | 1 |
-| Sh | 209 | 33 | 38 | 6 |
-| Toml | 130 | 0 | 18 | 2 |
+| Sh | 224 | 33 | 42 | 6 |
+| Toml | 200 | 0 | 34 | 7 |
 
 ## 源代码
 
@@ -32,8 +32,8 @@ x install parallel-disk-usage
 
 ## 发布
 
-- **最新版本**: `0.24.0` (2026-05-28)
-- **最近提交**: 2026-11-17
+- **最新版本**: `0.24.1` (2026-11-22)
+- **最近提交**: 2026-11-22
 - **Release 含资产**: 15 个
 
 ## 流行度
@@ -42,48 +42,48 @@ x install parallel-disk-usage
 
 ## 累计统计
 
-- **发布数**: 62 · **已合并 PR**: 274 · **开放 PR**: 9 · **已关闭 issue**: 67 · **开放 issue**: 12 · **提交数**: 1330
+- **发布数**: 63 · **已合并 PR**: 278 · **开放 PR**: 8 · **已关闭 issue**: 67 · **开放 issue**: 12 · **提交数**: 1336
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 0 | 4 | 1 | 1 | 1 | 7 |
-| last60d | 2026-09-23 | 0 | 4 | 1 | 1 | 1 | 7 |
-| 90d | 2026-08-24 | 0 | 5 | 2 | 1 | 1 | 7 |
-| last180d | 2026-05-26 | 1 | 20 | 5 | 11 | 1 | 18 |
-| 360d | 2025-11-27 | 7 | 80 | 9 | 33 | 3 | 103 |
-| last720d | 2024-12-02 | 15 | 107 | 9 | 45 | 4 | 220 |
+| 30d | 2026-10-24 | 1 | 8 | 0 | 1 | 1 | 13 |
+| last60d | 2026-09-24 | 1 | 8 | 0 | 1 | 1 | 13 |
+| 90d | 2026-08-25 | 1 | 9 | 1 | 1 | 1 | 13 |
+| last180d | 2026-05-27 | 2 | 24 | 4 | 11 | 1 | 24 |
+| 360d | 2025-11-28 | 8 | 84 | 8 | 33 | 3 | 109 |
+| last720d | 2024-12-03 | 16 | 111 | 8 | 45 | 4 | 226 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [benchmark-reports.tar.gz](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.0/benchmark-reports.tar.gz) | 20.0 KiB | `native/unknown` |
-| [completion.bash](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.0/completion.bash) | 3.4 KiB | `other` |
-| [completion.elv](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.0/completion.elv) | 3.3 KiB | `other` |
-| [completion.fish](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.0/completion.fish) | 2.1 KiB | `other` |
-| [completion.ps1](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.0/completion.ps1) | 6.4 KiB | `other` |
-| [completion.zsh](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.0/completion.zsh) | 4.0 KiB | `other` |
-| [pdu-x86_64-apple-darwin](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.0/pdu-x86_64-apple-darwin) | 1.9 MiB | `native/darwin/x64` |
-| [pdu-x86_64-pc-windows-gnu.exe](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.0/pdu-x86_64-pc-windows-gnu.exe) | 4.2 MiB | `native/win/x64` |
-| [pdu-x86_64-pc-windows-msvc.exe](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.0/pdu-x86_64-pc-windows-msvc.exe) | 1.4 MiB | `native/win/x64` |
-| [pdu-x86_64-unknown-linux-gnu](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.0/pdu-x86_64-unknown-linux-gnu) | 2.1 MiB | `native/linux/x64/glibc` |
-| [pdu-x86_64-unknown-linux-musl](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.0/pdu-x86_64-unknown-linux-musl) | 2.1 MiB | `native/linux/x64/musl` |
-| [pdu.1](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.0/pdu.1) | 5.1 KiB | `other` |
-| [sha1sum.txt](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.0/sha1sum.txt) | 354 B | `other` |
-| [sha256sum.txt](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.0/sha256sum.txt) | 474 B | `other` |
-| [sha512sum.txt](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.0/sha512sum.txt) | 794 B | `other` |
+| [benchmark-reports.tar.gz](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.1/benchmark-reports.tar.gz) | 23.0 KiB | `native/unknown` |
+| [completion.bash](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.1/completion.bash) | 3.4 KiB | `other` |
+| [completion.elv](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.1/completion.elv) | 3.3 KiB | `other` |
+| [completion.fish](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.1/completion.fish) | 2.1 KiB | `other` |
+| [completion.ps1](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.1/completion.ps1) | 6.4 KiB | `other` |
+| [completion.zsh](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.1/completion.zsh) | 4.0 KiB | `other` |
+| [pdu-x86_64-apple-darwin](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.1/pdu-x86_64-apple-darwin) | 1.9 MiB | `native/darwin/x64` |
+| [pdu-x86_64-pc-windows-gnu.exe](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.1/pdu-x86_64-pc-windows-gnu.exe) | 4.1 MiB | `native/win/x64` |
+| [pdu-x86_64-pc-windows-msvc.exe](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.1/pdu-x86_64-pc-windows-msvc.exe) | 1.5 MiB | `native/win/x64` |
+| [pdu-x86_64-unknown-linux-gnu](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.1/pdu-x86_64-unknown-linux-gnu) | 2.1 MiB | `native/linux/x64/glibc` |
+| [pdu-x86_64-unknown-linux-musl](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.1/pdu-x86_64-unknown-linux-musl) | 2.2 MiB | `native/linux/x64/musl` |
+| [pdu.1](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.1/pdu.1) | 5.1 KiB | `other` |
+| [sha1sum.txt](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.1/sha1sum.txt) | 421 B | `other` |
+| [sha256sum.txt](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.1/sha256sum.txt) | 565 B | `other` |
+| [sha512sum.txt](https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.1/sha512sum.txt) | 949 B | `other` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/parallel-disk-usage) 上共有 **17** 个发行版报告此项目。**10** 个 ✅ 已是最新上游版本，**6** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/parallel-disk-usage) 上共有 **17** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**14** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Arch | `0.24.0` | ✅ latest |
-| Homebrew | `0.24.0` | ✅ latest |
-| Nix unstable | `0.24.0` | ✅ latest |
+| Arch | `0.24.0` | ⚠️ outdated |
+| Homebrew | `0.24.1` | ✅ latest |
+| Nix unstable | `0.24.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -94,4 +94,4 @@ parallel-disk-usage 的安装元数据由 [x-cmd/install](https://github.com/x-c
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261122.yml` · 2026-11-22T08:25:59Z._
+_数据快照: `data/card/261123.yml` · 2026-11-23T09:06:00Z._
