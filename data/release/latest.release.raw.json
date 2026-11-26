@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 2043288,
       "digest": "sha256:185488ce9b5d5a5852659a79d4aac709dcc8bf23f8e5069a5d1132db827fed1f",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-11-22T18:33:39Z",
       "updated_at": "2026-11-22T18:33:39Z",
       "browser_download_url": "https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.1/pdu-x86_64-apple-darwin"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 4298535,
       "digest": "sha256:344c07eb232eba44a4fa4c6d92a7f6ee3ed75e2ae1d93dfdb61870cb6f3a121a",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-11-22T18:33:35Z",
       "updated_at": "2026-11-22T18:33:35Z",
       "browser_download_url": "https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.1/pdu-x86_64-pc-windows-gnu.exe"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1561088,
       "digest": "sha256:affc289834e9666330bad75c7eaf61048f4ade6909e71de57965e5aea53b019a",
-      "download_count": 16,
+      "download_count": 20,
       "created_at": "2026-11-22T18:33:36Z",
       "updated_at": "2026-11-22T18:33:37Z",
       "browser_download_url": "https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.1/pdu-x86_64-pc-windows-msvc.exe"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 2197592,
       "digest": "sha256:072b138f3d5e8ec933cff6312b19837dba1cf1af548ab4eaf6bfe197fc68a1a1",
-      "download_count": 40,
+      "download_count": 49,
       "created_at": "2026-11-22T18:33:35Z",
       "updated_at": "2026-11-22T18:33:35Z",
       "browser_download_url": "https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.1/pdu-x86_64-unknown-linux-gnu"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 2266064,
       "digest": "sha256:733dcf2fa5ebc7a40f0896e40d3378cede7204d0ed6c825722915c28f50b3802",
-      "download_count": 15,
+      "download_count": 17,
       "created_at": "2026-11-22T18:33:34Z",
       "updated_at": "2026-11-22T18:33:35Z",
       "browser_download_url": "https://github.com/KSXGitHub/parallel-disk-usage/releases/download/0.24.1/pdu-x86_64-unknown-linux-musl"
