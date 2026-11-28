@@ -173,9 +173,9 @@
   srcname: sysutils/parallel-disk-usage
   binname: parallel-disk-usage
   visiblename: sysutils/parallel-disk-usage
-  version: 0.24.0
+  version: 0.24.1
   origversion: null
-  status: outdated
+  status: newest
   summary: Highly parallelized, blazing fast directory tree analyzer
   maintainers:
     - pkgsrc-users@netbsd.org
